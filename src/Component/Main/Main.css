@@ -1,0 +1,8 @@
+.main-page{
+    background-image: url(./images/background-pattern-mobile.svg);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-color: var(--css-light-pink);
+}
